@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.API", "Kravets.Notter.API\Kravets.Notter.API.csproj", "{54E1D020-7274-4808-948D-E4F16605B697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.DAL", "Kravets.Notter.DAL\Kravets.Notter.DAL.csproj", "{566F3D94-0F95-4DA8-94CA-EB1CC554F991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.DAL.Models", "Kravets.Notter.DAL.Models\Kravets.Notter.DAL.Models.csproj", "{3D2AFADC-0715-4EDC-BF08-003CDEF406A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.BLL", "Kravets.Notter.BLL\Kravets.Notter.BLL.csproj", "{ACF5E69D-4F9C-46D2-8A90-C9CC97D74821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.BLL.Models", "Kravets.Notter.BLL.Models\Kravets.Notter.BLL.Models.csproj", "{24A21EF9-B76C-4C3C-B757-8960E8380FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kravets.Notter.IoC", "Kravets.Notter.IoC\Kravets.Notter.IoC.csproj", "{705C408E-370D-4D1F-9E48-724BDD725FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E1D020-7274-4808-948D-E4F16605B697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E1D020-7274-4808-948D-E4F16605B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E1D020-7274-4808-948D-E4F16605B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E1D020-7274-4808-948D-E4F16605B697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566F3D94-0F95-4DA8-94CA-EB1CC554F991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566F3D94-0F95-4DA8-94CA-EB1CC554F991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566F3D94-0F95-4DA8-94CA-EB1CC554F991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566F3D94-0F95-4DA8-94CA-EB1CC554F991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2AFADC-0715-4EDC-BF08-003CDEF406A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2AFADC-0715-4EDC-BF08-003CDEF406A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2AFADC-0715-4EDC-BF08-003CDEF406A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2AFADC-0715-4EDC-BF08-003CDEF406A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF5E69D-4F9C-46D2-8A90-C9CC97D74821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF5E69D-4F9C-46D2-8A90-C9CC97D74821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF5E69D-4F9C-46D2-8A90-C9CC97D74821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF5E69D-4F9C-46D2-8A90-C9CC97D74821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A21EF9-B76C-4C3C-B757-8960E8380FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A21EF9-B76C-4C3C-B757-8960E8380FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A21EF9-B76C-4C3C-B757-8960E8380FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A21EF9-B76C-4C3C-B757-8960E8380FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705C408E-370D-4D1F-9E48-724BDD725FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705C408E-370D-4D1F-9E48-724BDD725FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705C408E-370D-4D1F-9E48-724BDD725FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705C408E-370D-4D1F-9E48-724BDD725FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F340F17B-46C6-43DC-9D2A-22188F86CEB6}
+	EndGlobalSection
+EndGlobal
